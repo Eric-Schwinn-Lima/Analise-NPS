@@ -1,0 +1,32 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "analise_de_nps"
+version = "0.0.1"
+description = "Projeto de an\u00e1lise de NPS"
+authors = [
+  { name = "Eric Lima" },
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License"
+]
+requires-python = "~=3.14.0"
+
+
+[tool.ruff]
+line-length = 99
+src = ["analise_de_nps"]
+include = ["pyproject.toml", "analise_de_nps/**/*.py"]
+
+[tool.ruff.lint]
+extend-select = ["I"]  # Add import sorting
+
+[tool.ruff.lint.isort]
+known-first-party = ["analise_de_nps"]
+force-sort-within-sections = true
+
