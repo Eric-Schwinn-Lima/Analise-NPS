@@ -47,15 +47,15 @@ Os clientes respondem à pergunta: *"Em uma escala de 0 a 10, o quanto você rec
 
 ## Estrutura do Repositório
 
-Pasta 	                    Descrição
-data/	                    Base de dados utilizada no projeto.
-docs/	                    README e documentação.
-notebooks/	                Notebook utilizado no projeto.
-reports/figures/	        Gráficos e visualizações gerados.
-reports/apresentacao/	    Apresentação em slides do projeto.
+- Pasta 	                    Descrição
+- data/	                    Base de dados utilizada no projeto.
+- docs/	                    README e documentação.
+- notebooks/	                Notebook utilizado no projeto.
+- reports/figures/	        Gráficos e visualizações gerados.
+- reports/apresentacao/	    Apresentação em slides do projeto.
 
 
 ## Notebooks do Projeto
 
-Notebook	                Descrição
-NPS - EDA.ipynb	            Apresenta a EDA do projeto com todas análises e insights.
+- Notebook	                Descrição
+- NPS - EDA.ipynb	            Apresenta a EDA do projeto com todas análises e insights.
