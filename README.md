@@ -1,10 +1,10 @@
-# 📊 Análise de NPS (Net Promoter Score)
+# Análise de NPS (Net Promoter Score)
 
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O Índice de NPS, é uma das métricas mais importantes para avaliar a satisfação, experiência e a lealdade dos clientes em relação a um produto, serviço ou a empresa. 
 
@@ -22,7 +22,7 @@ Os clientes respondem à pergunta: *"Em uma escala de 0 a 10, o quanto você rec
 
 ---
 
-## 💡 Funcionalidades e Análises
+## Funcionalidades e Análises
 
 - [x] **Tratamento e Limpeza de Dados:** Remoção de duplicatas e tratamento de valores ausentes.
 - [x] **Cálculo de NPS:** Determinação do NPS Geral e por categoria/departamento/produto.
@@ -32,16 +32,16 @@ Os clientes respondem à pergunta: *"Em uma escala de 0 a 10, o quanto você rec
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** Python 3.14
 - **Manipulação de Dados:** `pandas`, `numpy`
 - **Visualização de Dados:** `matplotlib`, `seaborn`
-- **Ambiente de Desenvolvimento:** VS Code / Colab Notebook
+- **Ambiente de Desenvolvimento:** VS Code / Jupyter Notebook
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 Analise-NPS/
