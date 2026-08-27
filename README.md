@@ -1,8 +1,8 @@
 # 📊 Análise de NPS (Net Promoter Score)
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)](#)
+
 
 ## 📌 Sobre o Projeto
 
@@ -34,7 +34,7 @@ Os clientes respondem à pergunta: *"Em uma escala de 0 a 10, o quanto você rec
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Python 3.13
+- **Linguagem:** Python 3.14
 - **Manipulação de Dados:** `pandas`, `numpy`
 - **Visualização de Dados:** `matplotlib`, `seaborn`
 - **Ambiente de Desenvolvimento:** VS Code / Colab Notebook
